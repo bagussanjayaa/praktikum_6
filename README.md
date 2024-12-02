@@ -84,7 +84,7 @@ Baris-baris ini menunjukkan bagaimana cara menggunakan fungsi-fungsi tersebut:
 
 ## Ini hasil/output dari program yang saya buat
 
-![gambar]()
+![gambar](daftar_mahasiswa.png)
 
 ## Ini penjelasan dari flowchart yang saya buat
 
@@ -126,6 +126,6 @@ Baris-baris ini menunjukkan bagaimana cara menggunakan fungsi-fungsi tersebut:
 
 ## Ini flowchart dari program yang saya buat
 
-![gambar](daftar_mahasiswa1)
+![gambar](daftar_mahasiswa1.jpg)
 
-![gambar](daftar_mahasiswa2)
+![gambar](daftar_mahasiswa2.jpg)
